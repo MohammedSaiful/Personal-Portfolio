@@ -3,7 +3,7 @@
 A modern, fully responsive personal portfolio website built using HTML, CSS, and JavaScript.
 ## Live Demo
 
-[![Live Demo]](https://personal-portfolio-tau-six-31.vercel.app/)
+[![Live Demo Click here](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge)](https://personal-portfolio-tau-six-31.vercel.app/)
 
 ## Features
 
