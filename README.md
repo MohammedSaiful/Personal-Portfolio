@@ -1,1 +1,33 @@
-# Personal-Portfolio
+# 🌐 Personal Portfolio Website
+
+A modern, fully responsive personal portfolio website built using HTML, CSS, and JavaScript.
+## Live Demo
+
+https://your-vercel-link.vercel.app
+
+## Features
+
+- Responsive Design
+- Modern UI/UX
+- About Me
+- Skills & Technologies
+- Internship Experience
+- Development Projects
+- AI & Machine Learning Projects
+- Education
+- Dean's List & Awards
+- Certifications
+- Contact Section
+- Resume Download
+
+## Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- Font Awesome
+
+
+## Author
+
+Mohammed Saiful Islam
